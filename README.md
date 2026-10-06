@@ -68,7 +68,7 @@ Points farther away (larger `z`) land closer to the center, which produces the p
 
 ## Getting started
 
-**Requirements:** Unity [YOUR UNITY VERSION HERE]
+**Requirements:** Unity 2022.3.62f2
 
 1. Clone the repository:
    ```bash
@@ -108,7 +108,7 @@ This is a working prototype. The current renderer instantiates and destroys one 
 
 ## Author
 
-**Marcos Gorrochategui** - [GitHub](https://github.com/marcos_gorro)
+**Marcos Gorrochategui** - [GitHub](https://github.com/marcos-gorro)
 
 ## License
 
