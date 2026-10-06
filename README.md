@@ -5,7 +5,7 @@ A Unity (C#) tool that generates rotating 3D dot-cloud shapes (cube, sphere, cyl
 Built as a foundation for parametric visual stimuli (for example, depth and motion perception tasks) in the Human Perception & Visualization Lab at UAB.
 
 ![Rotating point cloud demo](docs/demo.gif)
-<!-- Replace docs/demo.gif with a GIF or screenshot of the cube, sphere, and cylinder rotating -->
+<table> <tr> <td align="center"><img src="docs/demo_cube.gif" alt="Rotating point cloud cube" width="400"><br><sub>Cube</sub></td> <td align="center"><img src="docs/demo_sphere.gif" alt="Rotating point cloud sphere" width="400"><br><sub>Sphere</sub></td> </tr> </table>
 
 ## Features
 
