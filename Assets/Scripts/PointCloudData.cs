@@ -9,10 +9,6 @@ public class PointCloudData
     private Vector3[] pointCloud;
 
 
-    public void extractPointCloud()
-    {
-
-    }
 
 
     public Vector3[] PointCloudCube(int numOfDots, float size)
